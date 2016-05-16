@@ -1,8 +1,5 @@
 #!bin/bash
 
-cd ~
-mkdir ./I_AM_A_LOSER
-
 open /Applications/Safari.app/
 
 osascript <<EOF
