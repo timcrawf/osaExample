@@ -1,5 +1,7 @@
 #!bin/bash
 
+cd /Users/
+
 open /Applications/Safari.app/
 
 osascript <<EOF
